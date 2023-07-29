@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Daily-Newspaper/static/css/main.94827cfe.css",
+    "main.js": "/Daily-Newspaper/static/js/main.8100c127.js",
+    "static/media/sun-logo.png": "/Daily-Newspaper/static/media/sun-logo.4d2e01b6812bf2531cb1.png",
+    "index.html": "/Daily-Newspaper/index.html",
+    "main.94827cfe.css.map": "/Daily-Newspaper/static/css/main.94827cfe.css.map",
+    "main.8100c127.js.map": "/Daily-Newspaper/static/js/main.8100c127.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.94827cfe.css",
+    "static/js/main.8100c127.js"
+  ]
+}
